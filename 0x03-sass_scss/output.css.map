@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EACA,MAAM,EAAE,GAAG;EACX,OAAO,EAAE,KAEP;IAAC,cAAM,EAAE,IAAI",
+"sources": ["2-nested_tag.scss"],
+"names": [],
+"file": "output.css"
+}
